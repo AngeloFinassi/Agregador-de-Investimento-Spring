@@ -21,7 +21,7 @@ The project follows good architectural practices, separation of responsibilities
 
 ---
 
-API Routes
+## API Routes
 **Users**
 POST /v1/users
 - Creates a new user in the system.
